@@ -78,6 +78,12 @@ DOMAIN-SUFFIX,bscscan.com
 PROCESS-NAME,Binance.exe
 DOMAIN-KEYWORD,binance
 
+# > Tapbit
+# iOS do need proxy for tapbit.com
+DOMAIN-SUFFIX,tapbit.com
+PROCESS-NAME,tapbit
+DOMAIN-KEYWORD,tapbit
+
 # > Huobi
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
