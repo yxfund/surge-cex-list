@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,zksync.io
 DOMAIN-SUFFIX,boba.network
 DOMAIN-SUFFIX,biget.com
 DOMAIN-SUFFIX,tapbit.com
+DOMAIN-SUFFIX,dipcoin.io
 
 # > Binance
 # iOS donot need proxy for binance.com
@@ -85,6 +86,12 @@ DOMAIN-SUFFIX,tapbit.com
 DOMAIN-SUFFIX,tapbit.com
 PROCESS-NAME,tapbit
 DOMAIN-KEYWORD,tapbit
+
+# > dipcoin
+# iOS do need proxy for tapbit.com
+DOMAIN-SUFFIX,dipcoin.io
+PROCESS-NAME,dipcoin
+DOMAIN-KEYWORD,dipcoin
 
 # > Huobi
 DOMAIN-SUFFIX,hbabit.com
